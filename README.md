@@ -1,28 +1,36 @@
-# WK1:Code Challenge
+# Code Challenge one 
+### Goals
+-Learn how to use prompt function. -practice writing Functions. -Write functions that return other function. -Practice 'if' and 'if...else' statement.
 
-## Prerequisite
-1. Create a repository on your GitHub account.
-2. Use Javascript to wire down the solution.
-3. Push the solution to the above repository once done.
-4. Submit the repository link for grading.
-5. Ensure your repository has a well written README.
+### Introduction
+Our objective here it to find solution for the Challenges provided below. The Challenges are; 1.Student Grade Generator. 2.Speed Detector. 3.Net Salary Calculator.
 
-## Challenge 1: Student Grade Generator (Toy Problem)
-Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
+### Installations
+Install promp-sync function to run this program on your VS Code. 1.Open the terminal. 2.Enter "npm install prompt-sync" The dependecies will be installed
 
-A > 79, 
-B - 60 to 79
-C - 59 to 49
-D - 40 to 49
-E - less 40
+### Running the program
+-Use the VS Code terminal to run the program. -Run the following command; node filename.js -Input value when prompted -It will evaluate the input and output the result.
 
- 
-## Challenge 2: Speed Detector (Toy Problem)
-Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+### Challenge 1: Student Grade Generator
+Our end goal is to make a program that take the percentage got by student as input and print the grade as output. let break it down.
 
-For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+-First things first, Create javascript file to write
+your code.
 
- 
+-Write a function to prompt the user for input
 
-## Challenge 3: Net Salary Calculator (Toy Problem)
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+-Write a function containg 'if...else' statement to evaluate the input.
+
+-Log the grade they got.
+
+### Challenge 2: Speed Detector
+-Create javascript file to write your code. -Write a function to prompt the user for input. -Write a function containg 'if...else' statement to evaluate the input. -Prints out one of the following; 1.Ok. 2.Points: 0-12. 3.License Suspended.
+
+### Challenge 3: Net Salary Calculator
+-Create javascript file to write your code. -Write a function to prompt the user for input. -Write 3 function; 1.To calculate the tax to paid. 2.Calculate NHIF fee. 3.Calculate NSSF fee. -Print out the following; 1.Gross Salary. 2.Tax. 3.NHIF Deductions. 4.NSSF Deductions. 5.Net Salary.
+
+### LICENSE
+
+
+### Authors
+By OSMAN MOHAMED OMAR (https://https://WWW.github.com/osman468)
