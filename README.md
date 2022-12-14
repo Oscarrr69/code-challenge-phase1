@@ -30,7 +30,27 @@ your code.
 -Create javascript file to write your code. -Write a function to prompt the user for input. -Write 3 function; 1.To calculate the tax to paid. 2.Calculate NHIF fee. 3.Calculate NSSF fee. -Print out the following; 1.Gross Salary. 2.Tax. 3.NHIF Deductions. 4.NSSF Deductions. 5.Net Salary.
 
 ### LICENSE
+  MIT Licence
 
+  Copyright (c) 2022 Osman Mohamed
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
 
 ### Authors
 By OSMAN MOHAMED OMAR (https://https://WWW.github.com/osman468)
